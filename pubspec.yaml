@@ -6,8 +6,9 @@ description: An AWS AppSync Auth Link  for Dart.
 environment:
   sdk: '>=2.7.0 <3.0.0'
 
-#dependencies:
-#  path: ^1.6.0
+dependencies:
+  graphql: 
+    ^3.0.0
 
 dev_dependencies:
   pedantic: ^1.8.0
